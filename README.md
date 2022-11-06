@@ -2,7 +2,6 @@
 <h3 align="center">Estoy emprendiendo mis primeros proyectos freelance como Full Stack Dev</h3>
 
 
-- Estoy trabajando en un E-comerce llamado **La Maria**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
