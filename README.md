@@ -1,5 +1,5 @@
-<h1 align="center"> I'm Carlos</h1>
-<h3 align="center">Estoy emprendiendo mis primeros proyectos freelance como Full Stack Dev</h3>
+<h1 align="center"> Hi I'm Carlos</h1>
+<h3 align="center">Estoy emprendiendo proyectos freelance como Full Stack Dev</h3>
 
 
 
