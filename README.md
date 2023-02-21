@@ -5,7 +5,7 @@
 
 <h3 align="left">Connect with me:</h3>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Julián%20Viera-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-ezequiel-palladino-torres-5a945a232/ "Connect on LinkedIn")
+[![Linkedin Badge](https://img.shields.io/badge/-Carlos%20Palladino-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-ezequiel-palladino-torres-5a945a232/ "Connect on LinkedIn")
 <h3 align="left">Full stack dev </h3>
 
 
