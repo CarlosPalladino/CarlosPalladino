@@ -1,11 +1,11 @@
 <h1 align="center"> Hi I'm Carlos</h1>
-<h3 align="center">Estoy emprendiendo proyectos freelance como Full Stack Dev</h3>
+<h3 align="center">Estoy emprendiendo proyectos freelance como Backend Dev</h3>
 
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[https://linkedin.com/in/carlos ezequiel palladino torres](https://www.linkedin.com/in/carlos-ezequiel-palladino-torres-5a945a232/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="carlos ezequiel palladino torres" height="30" width="40" /></a>
+[![Linkedin Badge](https://img.shields.io/badge/-Julián%20Viera-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-ezequiel-palladino-torres-5a945a232/ "Connect on LinkedIn")
 </p>
 
 <h3 align="left">Full stack dev </h3>
