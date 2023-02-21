@@ -4,10 +4,8 @@
 
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-[![Linkedin Badge](https://img.shields.io/badge/-Julián%20Viera-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-ezequiel-palladino-torres-5a945a232/ "Connect on LinkedIn")
-</p>
 
+[![Linkedin Badge](https://img.shields.io/badge/-Julián%20Viera-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-ezequiel-palladino-torres-5a945a232/ "Connect on LinkedIn")
 <h3 align="left">Full stack dev </h3>
 
 
