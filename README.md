@@ -1,13 +1,6 @@
 <h1 align="center"> Hi I'm Carlos</h1>
 <h3 align="center"> desarrollando  proyectos como  Backend Dev</h3>
-
-
-
-<h3 align="left">Connect with me:</h3>
-
 [![Linkedin Badge](https://img.shields.io/badge/-Carlos%20Palladino-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-palladino// "Connect on LinkedIn")
-
-
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=carlospalladino&show_icons=true&locale=en&layout=compact" alt="carlospalladino" /></p>
 
