@@ -1,5 +1,6 @@
 <h1 align="center"> Hi I'm Carlos</h1>
-<h3 align="center"> desarrollando  proyectos como  Backend Dev</h3>
+<h3 align="left"> Desarrollando  proyectos como  Backend | full stack Dev</h3>
+<h4 align="left">Actualmente me encuentro aprendiendo Angular para poder implemenentar en mis proyectos</h4>
 
 
 
