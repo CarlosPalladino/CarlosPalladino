@@ -35,7 +35,7 @@
   <a href="https://www.linkedin.com/in/carlos-palladino/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:carlosezequiel19palladino@gmail.com" target="_blank">
+  <a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSMSqbMpxbcCKfjFDcXJvlJbSRDMTGJRPMvNlTTkjcHkhFSknqXbGsXlmJbzZNFpnGqnDSnK" target="_blank">
     <img src="https://img.shields.io/badge/Email-FF5733?style=for-the-badge&logo=email&logoColor=white" />
   </a>
 </p>
