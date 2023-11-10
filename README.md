@@ -2,7 +2,7 @@
 <h1 align="center"> Hello there</h1>
 
 <!-- Subtítulo de presentación -->
-<h2 align="left">Soy Carlos, Software Developer de Buenos Aires, Argentina.</h2>
+<h2 align="center">Soy Carlos, Software Developer de Buenos Aires, Argentina.</h2>
 
 <!-- Subtítulo de Contacto con emoji -->
 <h2 align="left">📬 Contacto 📬</h2>
