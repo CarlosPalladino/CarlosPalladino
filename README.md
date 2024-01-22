@@ -33,7 +33,7 @@
 <!-- Iconos de tecnologías -->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,angular,cs,css,dotnet,figma,git,github,html,js,mysql,nodejs,postman,react,vscode,visualstudio,bootrap&perline=8" />
+    <img src="https://skillicons.dev/icons?i=git,angular,cs,css,dotnet,figma,git,bootstrap,github,html,js,mysql,nodejs,postman,react,vscode,visualstudio,bootrap&perline=10" />
   </a>
 </p>
 <!-- Estadísticas de lenguajes y GitHub con alturas y anchos iguales al final -->
