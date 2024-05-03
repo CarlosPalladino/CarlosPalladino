@@ -30,7 +30,7 @@
 <h2 align="left">☕️🍵 About me ☕️🍵</h2>
 
 <!-- Descripción de About me -->
-<p align="left">Siempre programo tomando café o mate.</p>
+<p align="left">Siempre estoy programando con café o mate.</p>
 
 <!-- Subtítulo de Mis objetivos con emoji -->
 <h2 align="left">🎯 Mis objetivos 🎯</h2>
