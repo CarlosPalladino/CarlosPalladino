@@ -30,20 +30,13 @@
 <h2 align="left">☕️🍵 About me ☕️🍵</h2>
 
 <!-- Descripción de About me -->
-<p align="left">Siempre estoy programando con café o mate.</p>
-
-<!-- Subtítulo de Mis objetivos con emoji -->
-<h2 align="left">🎯 Mis objetivos 🎯</h2>
-
-<!-- Descripción de Mis objetivos -->
-<p align="left">Busco poder aplicar mi entusiasmo en un equipo y resolver problemas constantemente.</p>
+<p align="left">Me gusta andar en bici y tomar café cada vez que puedo 🚲 </p>
 
 <!-- Subtítulo de Mis proyectos con emoji -->
 <h2 align="left">💼 Mis proyectos 💼</h2>
 
 <!-- Descripción de Mis proyectos -->
-<p align="left">Actualmente me encuentro desarrollando proyectos de manera autodidacta para poder demostrar las habilidades de las tecnologías que utilizo.</p>
-<p align="left">Crear productos que marquen un antes y un después en las personas que lo utilicen, haciendo de estos un</p>
+<p align="left">En este GitHub encontraras mayormente proyectos freelance y autodidactas, los cuales he utilizado como versión Beta para presentar a potenciales clientes</p>
 
 <!-- Subtítulo de Tecnologías con emoji -->
 <h2 align="left">🚀 Tecnologías 🚀</h2>
