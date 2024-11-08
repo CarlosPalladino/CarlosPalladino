@@ -34,8 +34,8 @@
 ---
 ### 📊 Github Stats
 
-[![Carlos Palladino's GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlosPalladino&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=00000000&hide_title=true&hide_border=true&card_width=400)](https://github.com/CarlosPalladino)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosPalladino&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=00000000&hide_title=true&hide_border=true&layout=compact&card_width=400)](https://github.com/CarlosPalladino/github-readme-stats)
+[![Carlos's github stats](https://github-readme-stats.vercel.app/api?username=CarlosPalladino&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=00000000&hide_title=true&hide_border=true&card_width=400)](https://github.com/CarlosPalladino)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosPalladino&show_icons=true&theme=transparen&icon_color=CE1D2D&text_color=718096&bg_color=00000000&hide_title=true&hide_border=true&layout=compact&card_width=400)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 ## 💬 Quote of the Day
