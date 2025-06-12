@@ -18,7 +18,7 @@
   
 - :nerd_face: Always `learning with coffe or mate`.
   
-- :thinking: I’m always open for a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1jRDFAYeHDmjyYZ1L-q3Ow2GfzGbyTMK9/view?usp=drive_link).
+- :thinking: I’m always open for a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1xGI6yoj0qe-lo0Fbnp0H3lW_pGmUG8HJ/view?usp=sharing).
   
 - :boom: We can talk on [Linkedin](https://www.linkedin.com/in/carlos-palladino/).
 <br>
