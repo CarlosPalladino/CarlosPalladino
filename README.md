@@ -26,7 +26,7 @@
 ## 🛠️ My Skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,angular,cs,css,dotnet,figma,git,bootstrap,github,html,js,mysql,nodejs,postman,react,vscode,visualstudio,bootrap&perline=10" />
+    <img src="https://skillicons.dev/icons?i=git,angular,cs,css,dotnet,figma,git,bootstrap,html,js,mysql,nodejs,postman,react,vscode,visualstudio,bootrap&perline=10" />
   </a>
 </p>
 
